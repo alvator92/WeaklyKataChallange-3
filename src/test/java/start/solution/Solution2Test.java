@@ -1,4 +1,4 @@
-package start;
+package start.solution;
 
 import org.junit.jupiter.api.Test;
 import start.solution.Solution2;
